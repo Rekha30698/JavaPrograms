@@ -3,8 +3,7 @@ package ReversePrograms;
 public class ReverseString2 {
 
 	public static void main(String[] args) {
-		//Input : Programming Language 
-		//Output : gnimmaragorP egaugnaL
+		
 		String str = " Programming language ";
 		String[]words=str.split(" ");
 		String rev = " ";
@@ -22,3 +21,6 @@ public class ReverseString2 {
 	}
 
 }
+//Input : Programming Language 
+//Output : gnimmaragorP egaugnaL
+
